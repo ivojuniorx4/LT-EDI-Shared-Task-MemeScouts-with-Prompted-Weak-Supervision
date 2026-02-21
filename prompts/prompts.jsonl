@@ -1,0 +1,89 @@
+{"question":"Does this meme express hostility toward LGBTQ+ people? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Is any group attacked or mocked because of sexual orientation or gender identity?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does the meme contain discriminatory or hateful language toward queer communities?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is the tone insulting toward LGBTQ+ identities?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does this meme promote prejudice or exclusion of LGBTQ+ people?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is this meme demeaning toward a protected group?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Rate from 1 to 5 how offensive this meme is toward LGBTQ+ people.","acceptable_answers":["1","2","3","4","5","one","two","three","four","five"]}
+{"question":"On a scale from 0 to 3, how strongly does this meme target queer identities?","acceptable_answers":["0","1","2","3","zero","one","two","three"]}
+{"question":"Does this meme insult gay, lesbian, or bisexual people?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is same-sex attraction portrayed as abnormal, wrong, or immoral?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does the meme ridicule men for being attracted to men?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does the meme mock women for being attracted to women?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does it suggest homosexuality should be cured or fixed?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Are slurs or coded insults for gay people present?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does the meme shame same-sex relationships?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does it frame gay people as weak, ridiculous, or dangerous?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does this meme encourage exclusion of gay people from society?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is the target sexual orientation rather than gender identity?","acceptable_answers":["yes","Yes","YES","true","no","No","NO","false"]}
+{"question":"Does this meme insult transgender people?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does it deny the validity of trans identities?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does it mock pronouns or gender transitions?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does it imply trans men or women are not real?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does it portray trans people as deceptive or fake?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does it ridicule gender-nonconforming appearance?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does the meme intentionally misgender someone?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does it claim being transgender is a mental illness?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does it portray trans people as dangerous?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does this meme argue trans people should be excluded from public spaces?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is the joke about sexual orientation rather than gender identity?","acceptable_answers":["yes","Yes","YES","true","no","No","NO","false"]}
+{"question":"Is the target who someone is attracted to?","acceptable_answers":["yes","Yes","YES","true","no","No","NO","false"]}
+{"question":"Is the joke about someone\u2019s gender or body?","acceptable_answers":["yes","Yes","YES","true","no","No","NO","false"]}
+{"question":"Does the meme reference transition, pronouns, or bathrooms?","acceptable_answers":["yes","Yes","YES","true","no","No","NO","false"]}
+{"question":"Does it question someone\u2019s gender category?","acceptable_answers":["yes","Yes","YES","true","no","No","NO","false"]}
+{"question":"Does it talk about being gay or lesbian instead of being transgender?","acceptable_answers":["yes","Yes","YES","true","no","No","NO","false"]}
+{"question":"Are masculinity or femininity stereotypes the main focus?","acceptable_answers":["yes","Yes","YES","true","no","No","NO","false"]}
+{"question":"Is romantic attraction the subject of the attack?","acceptable_answers":["yes","Yes","YES","true","no","No","NO","false"]}
+{"question":"Is gender identity the subject of the attack?","acceptable_answers":["yes","Yes","YES","true","no","No","NO","false"]}
+{"question":"Is this meme neutral or unrelated to sexuality or gender?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is the meme supportive of LGBTQ+ people?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is the content describing LGBTQ+ topics without judgment?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is the meme criticizing homophobia or transphobia?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is hateful language quoted only to condemn it?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is the humor directed at a situation rather than a group?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is this a self-referential joke by LGBTQ+ people?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does the meme promote acceptance or equality?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is there no attack toward any group in this meme?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is this meme sarcastic or parodying hateful views?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is the speaker mocking bigotry rather than LGBTQ+ people?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Could this meme reasonably be interpreted as satire?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is hate presented only to criticize it?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is the target ambiguous or unclear?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Does the meme invert stereotypes for humor?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"Is the joke condemning discrimination?","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
+{"question":"This meme may be in English, Hindi, or Chinese. Does it target sexual orientation, gender identity, or neither?","acceptable_answers":["sexual orientation","orientation","gender identity","gender","neither","none","neutral","no target"]}
+{"question":"Identify whether this meme attacks gay people, transgender people, or no group.","acceptable_answers":["gay people","homophobic","transgender people","transphobic","no group","neither","neutral"]}
+{"question":"Classify this meme as homophobic, transphobic, or neither.","acceptable_answers":["homophobic","Homophobic","transphobic","Transphobic","neither","Neither","neutral"]}
+{"question":"Does the meme include hate toward LGBTQ+ people in any language?","acceptable_answers":["yes","Yes","YES","true","no","No","NO","false"]}
+{"question":"Ignore translation difficulty and focus on meaning. Is a protected group attacked?","acceptable_answers":["yes","Yes","YES","true","no","No","NO","false"]}
+{"question":"Classify this meme into exactly one category: (A) Homophobic (B) Transphobic (C) Neither. Respond with only the letter.","acceptable_answers":["A","a","Homophobic","homophobic","B","b","Transphobic","transphobic","C","c","Neither","neither","neutral","none"]}
+{"question":"Is the LGBTQ+ person portrayed as the narrator or protagonist rather than the target of ridicule? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme use first person pronouns referring to a queer identity? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme invite empathy for a non-binary person rather than ridicule? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme avoid portraying non-binary or transgender people as fake, dangerous, or inferior? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Is the tone observational or resigned rather than hostile or insulting? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme imply that a group’s identity is fake, absurd, or laughable? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does it suggest trans identities are fake or laughable through comparison? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the punchline flip the insult back at the speaker instead of attacking LGBTQ+ people? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Is the meme supportive or accepting of someone coming out as trans? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Is the meme criticizing conservatives or anti-LGBT people (mocking them instead of LGBTQ people)? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Is the word “gay” being used mainly as a casual descriptor or wordplay rather than as an insult? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Is gender non-conformity being mocked as a joke? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme oppose the vocalization of queer identities or queer rights? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme promote an LGBT lifestyle? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme mock queer terminology? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme target straight or cisgender people? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme insult or attack straight or cisgender people? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme target the opinions of straight or cisgender people? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Is the topic sexual orientation rather than gender identity? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme insult people who accept or respect queer identities? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme compare queer terms to common words? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Could the content of the image potentially reverse the meaning of the text? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme appeal to traditional values, family honor, or social duty to criticize LGBTQ people? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme portray LGBTQ people as a threat to children, families, or society? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme shame LGBTQ people for embarrassing their family or community? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme suggest LGBTQ people bring dishonor or disgrace? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme encourage hiding or suppressing LGBTQ identity? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme suggest LGBTQ identity is a Western trend or foreign influence? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Does the meme rely on local idioms or wordplay to demean LGBTQ identities? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","y","true","True","no","No","NO","nah","n","false","False"]}
+{"question":"Is this meme neutral or unrelated to sexuality or gender? Answer yes or no.","acceptable_answers":["yes","Yes","YES","yeah","true","no","No","NO","false"]}
